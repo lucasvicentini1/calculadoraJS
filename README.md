@@ -1,4 +1,4 @@
-# calculadoraJS
+# TabuadaJS
 
 Praticando condição(If/Else), estrutura de repetição (While e For) e aproveitando para aprender também alguns elementos no html como select e option
 
